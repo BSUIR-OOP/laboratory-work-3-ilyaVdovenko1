@@ -1,1 +1,6 @@
-# laboratory-work-template
+# laboratory-work-3
+## Task
+3. Build a hierarchy of classes on a given topic (Options for topics (or invented by the student and approved by the teacher): a fleet of vehicles with different types of moving vehicles; jewelry consisting of different materials, stones, inclusions, etc.; a hierarchical structure of workers with different responsibilities; some dishes from various components / ingredients - in general, topics on the basis of which you can develop a class hierarchy, use templates).
+   The class hierarchy must have at least 3 levels of inheritance and at least 5 distinct classes whose entities can be instantiated. The structure of at least one class must contain an aggregation (when an object of the class also acts as a field or property of the class). There must also be at least one list of objects that can be modified using the user interface: add, remove list items, edit the selected item.
+   Implement all types of serialization / de-serialization of the list of created objects to / from a file: binary, xml (yml), in an arbitrary text format.
+   Implement the ability to change the values ​​of properties of objects (using the graphical interface. It should be possible to change the values ​​of properties of at least 5 classes).
